@@ -14,8 +14,8 @@ This program implements an AI Production System (AIPS) for simulated water jug d
 9. The AIPS shall detect leaks and send an alarm to the dispatcher. <br />
 10. The AIPS shall replenish the full shelf if there is one bottle left in the full shelf and the bottle in the column is less than ¼ of a gallon. <br />
 11. The AIPS shall call the robot to replace a bottle if the water on the stand is empty. <br />
-12. The AIPS shall control the water temperature for a chilled water stand to have operating temperatures of 42F +/- 2F. <br />
-<br />
+12. The AIPS shall control the water temperature for a chilled water stand to have operating temperatures of 42F +/- 2F. <br /><br />
+
 **AI Production System Simulation**
 - Runs on a daily basis for a set number of days (simulation shown is 10 days).
 - Each customer has a set daily water intake.
